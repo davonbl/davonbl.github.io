@@ -5,7 +5,7 @@
 
 @font-face{
     font-family: mainFont;
-    src: url(/davonbl.github.io/font-family/eight-bit-dragon-font/EightBitDragon-anqx.ttf)
+    src: url(./font-family/eight-bit-dragon-font/EightBitDragon-anqx.ttf)
 }
 
 header, .last-sentence, h3{
